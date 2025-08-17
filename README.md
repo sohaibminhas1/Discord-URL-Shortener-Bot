@@ -115,7 +115,7 @@ npm start
 - ⚠️ **Degraded**: Bot is running but API connection issues
 - ❌ **Offline**: Bot is not running
 
-## 📝 Commands
+Commands
 
 ### `/shortenurl`
 
@@ -189,7 +189,7 @@ The bot communicates with a RESTful API backend:
 }
 ```
 
-## 🏗️ Architecture
+Architecture
 
 ### Project Structure
 
